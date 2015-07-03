@@ -1,0 +1,19 @@
+{
+    "stage": 1,
+    "experimental": true,
+    "loose": [
+        "es6.forOf"
+    ],
+    "optional": [
+        "es6.spec.templateLiterals",
+        "es6.spec.symbols",
+        "runtime",
+        "minification.deadCodeElimination",
+        "minification.constantFolding",
+        "minification.memberExpressionLiterals",
+        "minification.propertyLiterals",
+        "spec.undefinedToVoid",
+        "validation.undeclaredVariableCheck",
+        "validation.react"
+    ]
+}
