@@ -13,7 +13,6 @@
         "minification.memberExpressionLiterals",
         "minification.propertyLiterals",
         "spec.undefinedToVoid",
-        "validation.undeclaredVariableCheck",
-        "validation.react"
+        "validation.undeclaredVariableCheck"
     ]
 }
