@@ -1,2 +1,4 @@
 lib/
 node_modules/
+.idea/cocos2d-js-webpack-babel.iml
+.idea/markdown-navigator.xml
